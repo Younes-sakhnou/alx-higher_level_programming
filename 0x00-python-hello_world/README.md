@@ -1,0 +1,1 @@
+Python is an awesome language created by Guido van Rossum. The name 'Python' comes from the British comedy group Monty Python. In this repo, you'll learn how to use the Python interpreter, print text and variables, work with strings, indexing and slicing, and how to write code according to the official Python coding style.
