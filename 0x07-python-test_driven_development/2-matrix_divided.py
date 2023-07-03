@@ -13,7 +13,8 @@ def matrix_divided(matrix, div):
 
     Returns: list[list[float]]: A new matrix where each element
              is the result of dividing the corresponding element
-             of the original matrix by the divisor, rounded to 2 decimal places.
+             of the original matrix by the divisor,
+             rounded to 2 decimal places.
 
     Raises: TypeError: If the matrix is not a valid matrix
             (a list of lists of integers or floats),
