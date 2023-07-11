@@ -1,4 +1,4 @@
-# Defines a function for writing content to a text file.
+#!/usr/bin/python3
 
 def write_file(filename="", content=""):
     """
